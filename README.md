@@ -10,7 +10,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 ### 👥 Takım Üyeleri
 - **Kardelen** – Scrum Master  
 - **Mesut** – Product Owner  
-- **Melisa** – Developer  
+- **Melissa** – Developer  
 - **Duygu** – Developer  
 - **Oğuz** – Developer  
 
@@ -50,7 +50,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 | Tarih  | Üye      | Dünü Ne Yaptım?                     | Bugün Ne Yapacağım?                        | Blokaj Var mı?        |
 |--------|----------|-------------------------------------|--------------------------------------------|------------------------|
 | 01.07  | Kardelen | Sprint planını hazırladım           | Görev dağılımını finalize edeceğim         | ❌                     |
-| 02.07  | Melisa   | Kaggle veri setini inceledim        | Tokenizasyon kodlarını yazacağım           | ❌                     |
+| 02.07  | Melissa   | Kaggle veri setini inceledim        | Tokenizasyon kodlarını yazacağım           | ❌                     |
 | 03.07  | Oğuz     | EDA planlaması yapılıyor            | PCA ile görselleştirme deneyeceğim         | ✅ Pandas sürüm sorunu |
 | 04.07  | Duygu    | Etiket kategorileri araştırılıyor   | Clean text fonksiyonlarını yazacağım       | ❌                     |
 | 05.07  | Mesut    | Kullanıcı akışını çizdim            | MVP için gereksinim listesini çıkartacağım | ❌                     |
