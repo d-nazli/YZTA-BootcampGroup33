@@ -208,8 +208,9 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 ## 2.8. Ekran Görüntüleri
 
 <img width="1910" height="639" alt="Screenshot 2025-07-20 191112" src="https://github.com/user-attachments/assets/84ac14cf-3aeb-4519-ae27-77a2fddbb7cb" />
-<alt="WhatsApp Image 2025-07-20 at 19.34.14_2e2d5272" src="https://github.com/user-attachments/assets/84ac14cf-3aeb-4519-ae27-77a2fddbb7cb" />
-
+![WhatsApp Image 2025-07-20 at 19 34 14_2e2d5272](https://github.com/user-attachments/assets/a23bc086-7943-4967-a3a5-97aed1fc3c4d)
+![WhatsApp Image 2025-07-20 at 19 34 14_56d7e4a0](https://github.com/user-attachments/assets/9f0968ea-deec-4f39-a6b4-25538d032bbe)
+![WhatsApp Image 2025-07-20 at 19 34 14_865a1af5](https://github.com/user-attachments/assets/bf5081ae-2893-43a7-b04e-bbce2da0f9d0)
 
 
 ---
