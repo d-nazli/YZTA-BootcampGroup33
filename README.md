@@ -112,7 +112,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 ### 👥 Takım Üyeleri
 - **Kardelen** – Scrum Master  
 - **Mesut** – Product Owner  
-- **Melisa** – Developer  
+- **Melissa** – Developer  
 - **Duygu** – Developer  
 - **Oğuz** – Developer  
 
@@ -156,7 +156,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 | Tarih  | Üye      | Dünü Ne Yaptım?                            | Bugün Ne Yapacağım?                                 | Blokaj Var mı?           |
 |--------|----------|---------------------------------------------|------------------------------------------------------|--------------------------|
 | 06.07  | Kardelen | Sprint backlog'u oluşturduk                | Story point'leri güncelleyeceğim                     | ❌                        |
-| 07.07  | Melisa   | Temizleme fonksiyonlarını yazdım            | TF-IDF üzerine çalışacağım                           | ✅ Zaman yetmedi          |
+| 07.07  | Melissa   | Temizleme fonksiyonlarını yazdım            | TF-IDF üzerine çalışacağım                           | ✅ Zaman yetmedi          |
 | 08.07  | Duygu    | XGBoost modeli kurdu                        | Doğruluk skorlarını analiz edeceğim                  | ❌                        |
 | 09.07  | Oğuz     | Normalizasyon kodlarını yazdı               | GeminE için araştırma yapacağım                      | ✅ Kaynak eksikliği       |
 | 10.07  | Mesut    | Kullanıcı için çıktı formatları planlandı   | TF-IDF analiz sonuçlarını özetleyeceğim              | ❌                        |
@@ -202,7 +202,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 **Aksiyonlar:**
 - Sprint 3 başında vektörleştirme görevleri önceliklendirilecek.  
-- Melisa ve Oğuz embedding üzerine birlikte çalışacak.  
+- Melissa ve Oğuz embedding üzerine birlikte çalışacak.  
 - Kardelen Sprint 3 için daha kısa task'lar halinde planlama yapacak.
 
 ---
