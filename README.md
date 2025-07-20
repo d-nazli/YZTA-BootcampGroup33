@@ -26,7 +26,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 📊 2. User Story ve Tahmin Edilen Story Point'ler
+## 📊 1.2. User Story ve Tahmin Edilen Story Point'ler
 
 | User Story                                            | Tahmin (SP) | Tamamlandı mı? |
 | ----------------------------------------------------- | ----------- | -------------- |
@@ -36,7 +36,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 🔍 3. Tahmin Mantığı
+## 🔍 1.3. Tahmin Mantığı
 
 - **1 SP:** Basit görev / 1 saatten kısa süren işler  
 - **3 SP:** Orta seviye / araştırma ve kodlama içeren işler  
@@ -45,7 +45,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 📅 4. Daily Scrum
+## 📅 1.4. Daily Scrum
 
 | Tarih  | Üye      | Dünü Ne Yaptım?                     | Bugün Ne Yapacağım?                        | Blokaj Var mı?        |
 |--------|----------|-------------------------------------|--------------------------------------------|------------------------|
@@ -57,7 +57,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 📌 5. Sprint Board Güncellemeleri
+## 📌 1.5. Sprint Board Güncellemeleri
 
 **To Do:**
 - Modelin seçimi
@@ -74,7 +74,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## ✅ 6. Sprint Review
+## ✅ 1.6. Sprint Review
 
 - Sprint 1’de hedeflenen tüm görevler başarıyla tamamlandı.  
 - Takım iş birliği çok yüksekti, tüm üyeler projeye katkı verdi.  
@@ -82,7 +82,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 🔄 7. Sprint Retrospective
+## 🔄 1.7. Sprint Retrospective
 
 **İyi Gidenler:**
 - Herkes aktif şekilde katkı verdi.  
@@ -100,4 +100,110 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-📁 Bu dokümantasyon, `YZTA-BootcampGroup33` projesinin ilk sprint çıktısı olarak `readme/` klasöründe tutulmaktadır.
+# 🧠 YZTA-BootcampGroup33 - Sprint 2 Dokümantasyonu
+
+## 📌 Proje Adı: DuyguDurumAI
+
+### 🎯 Amaç  
+Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası ruhsal problemlere (anksiyete, depresyon vb.) dair erken uyarı/takip sistemi geliştirmek.
+
+### 2 Sprint Tarihi: 7 Temmuz – 20 Temmuz
+
+### 👥 Takım Üyeleri
+- **Kardelen** – Scrum Master  
+- **Mesut** – Product Owner  
+- **Melisa** – Developer  
+- **Duygu** – Developer  
+- **Oğuz** – Developer  
+
+---
+
+## 📝 2.1. Sprint Notları
+
+- Ön işleme (preprocessing) adımları geliştirildi: stopword removal, küçük harfe çevirme, noktalama işaretlerinin kaldırılması tamamlandı.  
+- XGBoost modeli başarıyla eğitildi ve ilk doğruluk sonuçları elde edildi.  
+- TF-IDF ve diğer vektörleştirme yöntemleri (GloVe, GeminE benzeri embedding) planlandığı hâlde tamamlanamadı.  
+- Sprint planına kıyasla ilerleme eksik kaldı, ancak temel model kurulumları tamamlandığı için temel yapı sağlamlaştı.
+
+---
+
+## 📊 2.2. User Story ve Tahmin Edilen Story Point'ler
+
+| User Story                                               | Tahmin (SP) | Tamamlandı mı? |
+|-----------------------------------------------------------|-------------|----------------|
+| Metin verisinin temizlenmesi ve ön işlenmesi              | 5           | ✅              |
+| TF-IDF vektörleştirme uygulaması                          | 3           | ❌              |
+| XGBoost modelinin eğitilmesi                              | 5           | ✅              |
+| GloVe / GeminE vektörleştirme yöntemlerinin entegrasyonu  | 5           | ❌              |
+| Eğitim doğruluğunun ölçülmesi ve raporlanması             | 3           | ✅              |
+
+**Toplam Tahmin SP:** 21  
+**Tamamlanan SP:** 13  
+**Kalan SP:** 8  
+
+---
+
+## 🔍 2.3. Tahmin Mantığı
+
+- Görevler karmaşıklık ve tahmini süreye göre 1–5 arası puanlandı.  
+- Vektörleştirme işlemleri orta düzeyde (3 SP), model eğitimi ve embedding entegrasyonu yüksek puanlı (5 SP) olarak değerlendirildi.  
+- Sprint sonunda kalan görevler, Sprint 3’e aktarılacak.
+
+---
+
+## 📅 2.4. Daily Scrum
+
+| Tarih  | Üye      | Dünü Ne Yaptım?                            | Bugün Ne Yapacağım?                                 | Blokaj Var mı?           |
+|--------|----------|---------------------------------------------|------------------------------------------------------|--------------------------|
+| 06.07  | Kardelen | Sprint backlog'u oluşturduk                | Story point'leri güncelleyeceğim                     | ❌                        |
+| 07.07  | Melisa   | Temizleme fonksiyonlarını yazdım            | TF-IDF üzerine çalışacağım                           | ✅ Zaman yetmedi          |
+| 08.07  | Duygu    | XGBoost modeli kurdu                        | Doğruluk skorlarını analiz edeceğim                  | ❌                        |
+| 09.07  | Oğuz     | Normalizasyon kodlarını yazdı               | GeminE için araştırma yapacağım                      | ✅ Kaynak eksikliği       |
+| 10.07  | Mesut    | Kullanıcı için çıktı formatları planlandı   | TF-IDF analiz sonuçlarını özetleyeceğim              | ❌                        |
+
+---
+
+## 📌 2.5. Sprint Board Güncellemeleri
+
+**To Do:**
+- GeminE / GloVe entegrasyonu  
+- TF-IDF grafiksel analizi  
+- XGBoost çıktı optimizasyonu  
+
+**In Progress:**
+- TF-IDF kodları  
+- Model sonuçlarının yorumlanması  
+
+**Done:**
+- Temiz metin yapısı oluşturuldu  
+- XGBoost modeli eğitildi  
+- Doğruluk ve hata metrikleri hesaplandı  
+
+---
+
+## ✅ 2.6. Sprint Review
+
+- Sprint 2’de önemli teknik görevler (temizleme ve model eğitimi) başarıyla tamamlandı.  
+- TF-IDF ve embedding çalışmaları zaman ve kaynak kısıtları nedeniyle Sprint 3’e devredildi.  
+- Mevcut model, baseline sonuçlar için hazır hâle getirildi.  
+- Ekibin teknik katkısı devam etti ancak yoğunluk nedeniyle bazı görevlerde gecikme yaşandı.
+
+---
+
+## 🔄 7. Sprint Retrospective
+
+**İyi Gidenler:**
+- XGBoost modeli başarıyla çalıştırıldı ve ilk doğruluk sonuçları üretildi.  
+- Takım üyeleri birbirinin kodlarını test etti, iş birliği kuvvetliydi.  
+
+**Geliştirilmesi Gerekenler:**
+- Zaman yönetimi Sprint 2’de zorlandı.  
+- Vektörleştirme gibi araştırma içeren görevlerde teknik destek ihtiyacı hissedildi.  
+
+**Aksiyonlar:**
+- Sprint 3 başında vektörleştirme görevleri önceliklendirilecek.  
+- Melisa ve Oğuz embedding üzerine birlikte çalışacak.  
+- Kardelen Sprint 3 için daha kısa task'lar halinde planlama yapacak.
+
+---
+
