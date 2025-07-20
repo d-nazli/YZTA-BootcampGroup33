@@ -165,8 +165,12 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ## 📌 2.5. Sprint Board Güncellemeleri
 
-<img width="1089" height="630" alt="{19E3CE09-4DD8-47F8-B9FA-66ACA71D58F9}" src="https://github.com/user-attachments/assets/67e8bb6f-b95f-4074-af2d-621ae6129789" />
+<img width="1087" height="674" alt="{7F5DF5B6-F1B0-4A10-AF66-AAF1D1C19F94}" src="https://github.com/user-attachments/assets/df4f5ea8-5702-475a-80bf-bbb71470fa4c" />
 
+1 - ) To Do <img width="754" height="714" alt="{55C69CFF-920B-4F51-8B49-99FAD6AA2FB7}" src="https://github.com/user-attachments/assets/66dfb74f-b760-4529-b672-805cc7627246" />
+2 - ) Doing <img width="752" height="691" alt="{20E0BF8F-ED5D-419D-B4EA-AA194198FE7C}" src="https://github.com/user-attachments/assets/c4e42145-f991-4302-bf51-da056685d8f2" />
+3 - ) Done <img width="760" height="689" alt="{57D4CCC7-5C73-421E-AE96-87257F3AA71D}" src="https://github.com/user-attachments/assets/87a24e13-2956-4a05-a2c9-b47ed11bed83" />
+ 
 ---
 
 ## ✅ 2.6. Sprint Review
