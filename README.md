@@ -165,19 +165,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ## 📌 2.5. Sprint Board Güncellemeleri
 
-**To Do:**
-- GeminE / GloVe entegrasyonu  
-- TF-IDF grafiksel analizi  
-- XGBoost çıktı optimizasyonu  
-
-**In Progress:**
-- TF-IDF kodları  
-- Model sonuçlarının yorumlanması  
-
-**Done:**
-- Temiz metin yapısı oluşturuldu  
-- XGBoost modeli eğitildi  
-- Doğruluk ve hata metrikleri hesaplandı  
+<img width="1089" height="630" alt="{19E3CE09-4DD8-47F8-B9FA-66ACA71D58F9}" src="https://github.com/user-attachments/assets/67e8bb6f-b95f-4074-af2d-621ae6129789" />
 
 ---
 
