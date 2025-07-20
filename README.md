@@ -26,7 +26,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 📊 1.2. User Story ve Tahmin Edilen Story Point'ler
+## 📊 1.2. Sprintte Tamamlanması Gereken Puanlar
 
 | User Story                                            | Tahmin (SP) | Tamamlandı mı? |
 | ----------------------------------------------------- | ----------- | -------------- |
@@ -36,7 +36,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 🔍 1.3. Tahmin Mantığı
+## 🔍 1.3. Sprint Puanlama Mantığı
 
 - **1 SP:** Basit görev / 1 saatten kısa süren işler  
 - **3 SP:** Orta seviye / araştırma ve kodlama içeren işler  
@@ -127,7 +127,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 📊 2.2. User Story ve Tahmin Edilen Story Point'ler
+## 📊 2.2. Sprintte Tamamlanması Gereken Puanlar
 
 | User Story                                               | Tahmin (SP) | Tamamlandı mı? |
 |-----------------------------------------------------------|-------------|----------------|
@@ -143,7 +143,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 🔍 2.3. Tahmin Mantığı
+## 🔍 2.3. Sprint Puanlama Mantığı
 
 - Görevler karmaşıklık ve tahmini süreye göre 1–5 arası puanlandı.  
 - Vektörleştirme işlemleri orta düzeyde (3 SP), model eğitimi ve embedding entegrasyonu yüksek puanlı (5 SP) olarak değerlendirildi.  
