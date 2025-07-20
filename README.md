@@ -190,7 +190,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
-## 🔄 7. Sprint Retrospective
+## 🔄 2.7. Sprint Retrospective
 
 **İyi Gidenler:**
 - XGBoost modeli başarıyla çalıştırıldı ve ilk doğruluk sonuçları üretildi.  
@@ -204,6 +204,11 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 - Sprint 3 başında vektörleştirme görevleri önceliklendirilecek.  
 - Melissa ve Oğuz embedding üzerine birlikte çalışacak.  
 - Kardelen Sprint 3 için daha kısa task'lar halinde planlama yapacak.
+
+## 2.8. Ekran Görüntüleri
+
+<img width="1910" height="639" alt="Screenshot 2025-07-20 191112" src="https://github.com/user-attachments/assets/84ac14cf-3aeb-4519-ae27-77a2fddbb7cb" />
+
 
 ---
 
