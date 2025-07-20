@@ -165,7 +165,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ## 📌 2.5. Sprint Board Güncellemeleri
 
-<img width="1087" height="674" alt="{7F5DF5B6-F1B0-4A10-AF66-AAF1D1C19F94}" src="https://github.com/user-attachments/assets/df4f5ea8-5702-475a-80bf-bbb71470fa4c" />
+<img width="500" height="300" alt="{7F5DF5B6-F1B0-4A10-AF66-AAF1D1C19F94}" src="https://github.com/user-attachments/assets/df4f5ea8-5702-475a-80bf-bbb71470fa4c" />
 
 
 1 - ) To Do /
