@@ -332,6 +332,9 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 <img width="350" height="500" alt="{9DF750F8-65CB-4543-8831-7E03F04C49B6}" src="https://github.com/user-attachments/assets/dc084e87-71bd-4421-abf0-47ea9deef099" />
 
+<img width="500" height="500" alt="{A966FBD5-7F4C-4F6E-938F-CF29C6D80FCD}" src="https://github.com/user-attachments/assets/dd590506-952f-4fde-990e-85d8d363210f" />
+
+
 
 ---
 
