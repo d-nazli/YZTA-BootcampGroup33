@@ -330,6 +330,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ## 📸 3.8. Ekran Görüntüleri
 
+<img width="391" height="820" alt="{9DF750F8-65CB-4543-8831-7E03F04C49B6}" src="https://github.com/user-attachments/assets/dc084e87-71bd-4421-abf0-47ea9deef099" />
 
 
 ---
