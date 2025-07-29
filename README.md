@@ -289,7 +289,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 <img width="350" height="350" alt="{3604BAA0-A7C2-4F15-897F-EE1E829F6C5E}" src="https://github.com/user-attachments/assets/3ddd3bff-6409-473a-9c39-58e43ad86f0b" />
 
 2 - ) Doing:
-<img width="350" height="350" alt="{2DDF7327-4F75-4B2A-AAE9-38A38782ECBA}" src="https://github.com/user-attachments/assets/d70316de-a268-4a13-ae51-80e62b7eb4c3" />
+<img width="350" height="350" alt="{2B0F4A1B-16B6-43D4-BADA-05698F07130E}" src="https://github.com/user-attachments/assets/159dd775-decc-479f-a515-6f662f5fb249" />
 
 3 - ) Done:
 <img width="350" height="350" alt="{81D22314-36DC-4F0F-B42E-4E220972B874}" src="https://github.com/user-attachments/assets/84e0405a-18fe-4cfc-90db-3af4c9a8af04" />
