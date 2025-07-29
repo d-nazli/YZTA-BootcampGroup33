@@ -283,23 +283,18 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ## 📌 3.5. Sprint Board Güncellemeleri
 
-**To Do:**
+<img width="750" height="450" alt="{C8D43BAE-2032-4CFA-9C85-249ED4C784BD}" src="https://github.com/user-attachments/assets/a9d2aad3-0a81-4495-ac98-fefed42c10f2" />
 
-* GeminE vektörleştirme optimizasyonu
-* Model çıktılarını kullanıcı dostu yorumlarla destekleme
+1 - ) To Do:
+<img width="350" height="350" alt="{3604BAA0-A7C2-4F15-897F-EE1E829F6C5E}" src="https://github.com/user-attachments/assets/3ddd3bff-6409-473a-9c39-58e43ad86f0b" />
 
-**In Progress:**
+2 - ) Doing:
+<img width="350" height="350" alt="{2DDF7327-4F75-4B2A-AAE9-38A38782ECBA}" src="https://github.com/user-attachments/assets/d70316de-a268-4a13-ae51-80e62b7eb4c3" />
 
-* Arayüz geliştirmesi
-* Model yorumlama için SHAP/LIME araştırması
+3 - ) Done:
+<img width="350" height="350" alt="{81D22314-36DC-4F0F-B42E-4E220972B874}" src="https://github.com/user-attachments/assets/84e0405a-18fe-4cfc-90db-3af4c9a8af04" />
 
-**Done:**
 
-* TF-IDF entegrasyonu
-* GloVe embedding ile model eğitimi
-* XGBoost ve Logistic Regression karşılaştırması
-* ROC-AUC analizi
-* Basit CLI demo
 
 ---
 
