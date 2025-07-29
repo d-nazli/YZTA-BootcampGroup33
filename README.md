@@ -215,8 +215,9 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 # 🧠 YZTA-BootcampGroup33 - Sprint 3 Dokümantasyonu
 
-📌 **Proje Adı:** DuyguDurumAI
-🎯 **Amaç:**
+## 📌 Proje Adı: DuyguDurumAI
+
+### 🎯 Amaç  
 Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası ruhsal problemlere (anksiyete, depresyon vb.) dair erken uyarı/takip sistemi geliştirmek.
 
 ---
