@@ -1,4 +1,4 @@
-# 🧠 YZTA-BootcampGroup33 - Sprint 1 Dokümantasyonu
+ # 🧠 YZTA-BootcampGroup33 - Sprint 1 Dokümantasyonu
 
 ## 📌 Proje Adı: DuyguDurumAI
 
@@ -207,6 +207,133 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 <img width="1910" height="639" alt="Screenshot 2025-07-20 191112" src="https://github.com/user-attachments/assets/84ac14cf-3aeb-4519-ae27-77a2fddbb7cb" />
 
+
+
+
+---
+
+
+# 🧠 YZTA-BootcampGroup33 - Sprint 3 Dokümantasyonu
+
+📌 **Proje Adı:** DuyguDurumAI
+🎯 **Amaç:**
+Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası ruhsal problemlere (anksiyete, depresyon vb.) dair erken uyarı/takip sistemi geliştirmek.
+
+---
+
+🗓 **Sprint Tarihi:** 22 Temmuz – 29 Temmuz
+
+👥 **Takım Üyeleri**
+
+* Kardelen – Scrum Master
+* Mesut – Product Owner
+* Melissa – Developer
+* Duygu – Developer
+* Oğuz – Developer
+
+---
+
+## 📝 3.1. Sprint Notları
+
+* TF-IDF ve GloVe vektörleştirme görevleri tamamlandı.
+* GeminE embedding entegrasyonu başarıyla test edildi, ancak optimizasyon gereksinimi gözlemlendi.
+* XGBoost modeline ek olarak, baseline karşılaştırması için Logistic Regression uygulandı.
+* Eğitim ve test skorları karşılaştırıldı, ROC-AUC metriği eklendi.
+* Model çıktılarının kullanıcıya sunumu için ilk arayüz tasarımı başlatıldı (CLI/Notebook tabanlı).
+* Kodlama sırasında yaşanan versiyon problemleri, sanal ortam güncellemesi ile çözüldü.
+
+---
+
+## 📊 3.2. Sprintte Tamamlanması Gereken Puanlar
+
+| User Story                                           | Tahmin (SP) | Tamamlandı mı?         |
+| ---------------------------------------------------- | ----------- | ---------------------- |
+| TF-IDF vektörleştirme entegrasyonu                   | 3           | ✅                      |
+| GloVe embedding ile model eğitimi                    | 5           | ✅                      |
+| GeminE embedding analizi ve optimizasyonu            | 5           | ❌ (Kısmen test edildi) |
+| Alternatif model karşılaştırması (LogReg vs XGBoost) | 3           | ✅                      |
+| ROC-AUC ve diğer metriklerle değerlendirme           | 3           | ✅                      |
+| Basit kullanıcı arayüzü (CLI/Notebook demo)          | 3           | ✅                      |
+
+**Toplam Tahmin SP:** 22
+**Tamamlanan SP:** 19
+**Kalan SP:** 3
+
+---
+
+## 🔍 3.3. Sprint Puanlama Mantığı
+
+* Daha teknik, model karşılaştırmalı ve analiz içeren görevler yüksek puanlı olarak (5 SP) değerlendirildi.
+* Arayüz prototipi gibi uygulanabilir, sınırlı kapsamlı işler orta düzey puan aldı (3 SP).
+* GeminE vektörleştirmesi ile ilgili çalışma, veri boyutu ve kaynak gereksinimi nedeniyle tamamlanamadı.
+
+---
+
+## 📅 3.4. Daily Scrum
+
+| Tarih | Üye      | Dünü Ne Yaptım?                             | Bugün Ne Yapacağım?                    | Blokaj Var mı?     |
+| ----- | -------- | ------------------------------------------- | -------------------------------------- | ------------------ |
+| 22.07 | Kardelen | Sprint görevlerini küçük task'lara böldüm   | Trello board'u güncelleyeceğim         | ❌                  |
+| 23.07 | Melissa  | TF-IDF kodunu tamamladım                    | GloVe vektörlerini entegre edeceğim    | ❌                  |
+| 24.07 | Oğuz     | GeminE için ilk embed örnekleri oluşturuldu | Bellek sorunlarını çözmeye çalışacağım | ✅ GPU yetersizliği |
+| 25.07 | Duygu    | ROC-AUC hesaplaması yaptı                   | Model metriklerini görselleştireceğim  | ❌                  |
+| 26.07 | Mesut    | CLI formatı önerisi sundum                  | Arayüz demosu üzerinde çalışacağım     | ❌                  |
+
+---
+
+## 📌 3.5. Sprint Board Güncellemeleri
+
+**To Do:**
+
+* GeminE vektörleştirme optimizasyonu
+* Model çıktılarını kullanıcı dostu yorumlarla destekleme
+
+**In Progress:**
+
+* Arayüz geliştirmesi
+* Model yorumlama için SHAP/LIME araştırması
+
+**Done:**
+
+* TF-IDF entegrasyonu
+* GloVe embedding ile model eğitimi
+* XGBoost ve Logistic Regression karşılaştırması
+* ROC-AUC analizi
+* Basit CLI demo
+
+---
+
+## ✅ 3.6. Sprint Review
+
+* TF-IDF ve GloVe başarıyla entegre edildi, model doğrulukları ve metrikleri elde edildi.
+* ROC, F1 ve doğruluk sonuçları karşılaştırıldı, XGBoost hâlâ en başarılı model konumunda.
+* Arayüzde kullanıcı girişi alınıp model çıktısı döndürüldü.
+* GeminE entegrasyonu test aşamasında, ancak büyük boyutlu embed'ler RAM/GPU sorunu oluşturdu.
+
+---
+
+## 🔄 3.7. Sprint Retrospective
+
+**İyi Gidenler:**
+
+* Model karşılaştırmaları ve metrik analizleri netlik kazandırdı.
+* Teknik görevlerde iş birliği kuvvetliydi.
+* Arayüz için somut bir adım atıldı.
+
+**Geliştirilmesi Gerekenler:**
+
+* Embedding’lerde kaynak problemi yaşandı (RAM/GPU).
+* GloVe ile model başarıları tatmin edici ancak daha fazla analiz gerekebilir.
+
+**Aksiyonlar:**
+
+* Sprint 4'te GeminE optimizasyonu için colab GPU kullanımına geçilecek.
+* SHAP ve LIME ile model açıklanabilirliği (explainability) artırılacak.
+* Arayüz kullanıcı deneyimi için iyileştirilecek.
+
+---
+
+## 📸 3.8. Ekran Görüntüleri
 
 
 
