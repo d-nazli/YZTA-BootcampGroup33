@@ -3,5 +3,6 @@ from pydantic import BaseModel
 class SentimentRequest(BaseModel):
     text: str
 
-class SentimentResponse(BaseModel):
+class ChatResponse(BaseModel):
     sentiment: str
+    response: str
