@@ -7,6 +7,7 @@ from app.utils import preprocess_text
 app = FastAPI()
 model = load_model()
 
+
 @app.post("/chat", response_model=ChatResponse)
 def chat(request: SentimentRequest):
     processed = preprocess_text(request.text)
