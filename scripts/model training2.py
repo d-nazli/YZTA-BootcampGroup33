@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  3 12:28:50 2025
 
-@author: SOGUTPC
-"""
 from sklearn.naive_bayes import BernoulliNB
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogisticRegression
@@ -192,4 +188,5 @@ plt.ylabel("Classifier")
 plt.legend(loc='lower right')
 plt.tight_layout()
 plt.show()
+
 
