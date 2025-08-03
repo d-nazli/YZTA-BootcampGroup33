@@ -1,5 +1,14 @@
 # -*- coding: utf-8 -*-
 
+import pandas as pd
+import numpy as np
+import re
+import random
+import matplotlib.pyplot as plt
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+from wordcloud import WordCloud
+
 df.rename(columns={'statement': 'original_statement'}, inplace=True)
 df['statement']=df['original_statement'].str.lower()
 df.head()
@@ -47,3 +56,4 @@ for status in statuses:
     plt.title(f'WordCloud for Status: {status}')
 
     plt.show()
+
