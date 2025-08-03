@@ -180,7 +180,6 @@ metrics_long = metrics_df.melt(id_vars='Classifier',
 
 plt.figure(figsize=(12, 6))
 sns.barplot(x='Score', y='Classifier', hue='Metric', data=metrics_long, palette='Set1')
-
 plt.title("Model Performance Comparison (Accuracy, Precision, Recall, F1 Score)")
 plt.xlim(0, 1.05)
 plt.xlabel("Score")
@@ -188,5 +187,6 @@ plt.ylabel("Classifier")
 plt.legend(loc='lower right')
 plt.tight_layout()
 plt.show()
+
 
 
