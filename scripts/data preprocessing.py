@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  3 12:26:45 2025
 
-@author: SOGUTPC
-"""
 df.rename(columns={'statement': 'original_statement'}, inplace=True)
 df['statement']=df['original_statement'].str.lower()
 df.head()
@@ -49,4 +45,5 @@ for status in statuses:
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')  # Turn off axis
     plt.title(f'WordCloud for Status: {status}')
+
     plt.show()
