@@ -1,9 +1,29 @@
-import numpy as np
+# Gerekli kütüphanelerin içe aktarılması
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import re
+import random
+from imblearn.over_sampling import RandomOverSampler
+from scipy.sparse import hstack
 import nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+
+from wordcloud import WordCloud
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import LabelEncoder
+from sklearn.naive_bayes import BernoulliNB
+from sklearn.ensemble import RandomForestClassifier
+from lightgbm import LGBMClassifier
+from xgboost import XGBClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.metrics import precision_score, recall_score, f1_score
 import warnings
+warnings.filterwarnings("ignore")
 
 # Veriyi CSV dosyasından oku
 df = pd.read_csv(raw_data)
