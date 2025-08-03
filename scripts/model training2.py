@@ -66,8 +66,7 @@ classifiers= {'XGB':XGBClassifier(learning_rate=0.2,max_depth=7,n_estimators=500
     learning_rate=0.1,
     n_estimators=500,
     max_depth=10,
-    num_leaves=31),
-
+    num_leaves=31)
 }
 
 #Model eğitimleri,tahminler,doğruluk skorları ve raporları
@@ -193,3 +192,4 @@ plt.ylabel("Classifier")
 plt.legend(loc='lower right')
 plt.tight_layout()
 plt.show()
+
