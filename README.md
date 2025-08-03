@@ -305,12 +305,22 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 * GeminE entegrasyonu test aşamasında, ancak büyük boyutlu embed'ler RAM/GPU sorunu oluşturdu.
 
 ---
-Eğitilen modellerin performans olarak karşılaştırılması
+
+Eğitilen modellerin performans olarak karşılaştırılması - - >
 
 <img width="350" height="350" alt="Figure 2025-08-03 184205" src="https://github.com/user-attachments/assets/87a3b245-2218-4df0-a50e-645758db9f03" />
 
-XGBoost modelinin ROC-AUC eğrisi
+XGBoost modelinin ROC-AUC eğrisi - - >
+
 <img width="350" height="350" alt="Figure 2025-08-03 201110" src="https://github.com/user-attachments/assets/b0022381-6e76-4406-abeb-955fd0c6a8e8" />
+
+<img width="821" height="632" alt="{CA2E79FB-9FE4-458F-BC6E-BBFA91539724}" src="https://github.com/user-attachments/assets/51f33fff-42a4-4211-8cd3-8cd347ae6bff" />
+
+<img width="821" height="629" alt="{7EE4223D-2659-46F2-9FAF-62283783DD78}" src="https://github.com/user-attachments/assets/bcce6238-7a8a-4fa7-91b4-cd495f085105" />
+
+<img width="823" height="633" alt="{AB57900A-DCCE-4FE4-AC5B-1677ACED1D4D}" src="https://github.com/user-attachments/assets/a55fd9cf-f6a8-4c21-94cd-ae098c6e0a77" />
+
+<img width="822" height="637" alt="{FEE1C176-CEFE-4E6F-82F8-046161389C9D}" src="https://github.com/user-attachments/assets/21a0a735-bb4e-4482-b0e4-a32cf24dd4b4" />
 
 
 ## 🔄 3.7. Sprint Retrospective
