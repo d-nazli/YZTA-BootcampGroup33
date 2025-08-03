@@ -306,6 +306,9 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ---
 
+<img width="857" height="425" alt="Figure 2025-08-03 184205" src="https://github.com/user-attachments/assets/87a3b245-2218-4df0-a50e-645758db9f03" />
+Eğitilen modellerin performans olarak karşılaştırılması
+
 ## 🔄 3.7. Sprint Retrospective
 
 **İyi Gidenler:**
@@ -332,6 +335,9 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 <img width="350" height="500" alt="{9DF750F8-65CB-4543-8831-7E03F04C49B6}" src="https://github.com/user-attachments/assets/dc084e87-71bd-4421-abf0-47ea9deef099" />
 
 <img width="500" height="500" alt="{A966FBD5-7F4C-4F6E-938F-CF29C6D80FCD}" src="https://github.com/user-attachments/assets/dd590506-952f-4fde-990e-85d8d363210f" />
+
+
+
 
 
 
