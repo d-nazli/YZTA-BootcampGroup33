@@ -227,7 +227,6 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 👥 **Takım Üyeleri**
 
 * Kardelen – Scrum Master
-* Mesut – Product Owner
 * Melissa – Developer
 * Duygu – Developer
 * Oğuz – Developer
@@ -278,7 +277,6 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 | 23.07 | Melissa  | TF-IDF kodunu tamamladım                    | GloVe vektörlerini entegre edeceğim    | ❌                  |
 | 24.07 | Oğuz     | GeminE için ilk embed örnekleri oluşturuldu | Bellek sorunlarını çözmeye çalışacağım | ✅ GPU yetersizliği |
 | 25.07 | Duygu    | ROC-AUC hesaplaması yaptı                   | Model metriklerini görselleştireceğim  | ❌                  |
-| 26.07 | Mesut    | CLI formatı önerisi sundum                  | Arayüz demosu üzerinde çalışacağım     | ❌                  |
 
 ---
 
