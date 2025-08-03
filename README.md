@@ -314,6 +314,8 @@ XGBoost modelinin ROC-AUC eğrisi - - >
 
 <img width="350" height="350" alt="Figure 2025-08-03 201110" src="https://github.com/user-attachments/assets/b0022381-6e76-4406-abeb-955fd0c6a8e8" />
 
+Xgboost ile birlikte eğitilenler - - >
+
 <img width="821" height="632" alt="{CA2E79FB-9FE4-458F-BC6E-BBFA91539724}" src="https://github.com/user-attachments/assets/51f33fff-42a4-4211-8cd3-8cd347ae6bff" />
 
 <img width="821" height="629" alt="{7EE4223D-2659-46F2-9FAF-62283783DD78}" src="https://github.com/user-attachments/assets/bcce6238-7a8a-4fa7-91b4-cd495f085105" />
