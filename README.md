@@ -237,8 +237,8 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 * TF-IDF ve GloVe vektörleştirme görevleri tamamlandı.
 * GeminE embedding entegrasyonu başarıyla test edildi, ancak optimizasyon gereksinimi gözlemlendi.
-* XGBoost modeline ek olarak, baseline karşılaştırması için Logistic Regression uygulandı.
-* Eğitim ve test skorları karşılaştırıldı, ROC-AUC metriği eklendi.
+* XGBoost modeline ek olarak, baseline karşılaştırması için Logistic Regression,LightGBM,Random Forest,Naive Bayes uygulandı.
+* Eğitim ve test skorları karşılaştırıldı.
 * Model çıktılarının kullanıcıya sunumu için ilk arayüz tasarımı başlatıldı (CLI/Notebook tabanlı).
 * Kodlama sırasında yaşanan versiyon problemleri, sanal ortam güncellemesi ile çözüldü.
 
@@ -300,7 +300,7 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 ## ✅ 3.6. Sprint Review
 
 * TF-IDF ve GloVe başarıyla entegre edildi, model doğrulukları ve metrikleri elde edildi.
-* ROC, F1 ve doğruluk sonuçları karşılaştırıldı, XGBoost hâlâ en başarılı model konumunda.
+* Accuracy, F1 ve doğruluk sonuçları karşılaştırıldı, LightGBM en başarılı model konumunda.
 * Arayüzde kullanıcı girişi alınıp model çıktısı döndürüldü.
 * GeminE entegrasyonu test aşamasında, ancak büyük boyutlu embed'ler RAM/GPU sorunu oluşturdu.
 
@@ -334,6 +334,6 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 <img width="500" height="500" alt="{A966FBD5-7F4C-4F6E-938F-CF29C6D80FCD}" src="https://github.com/user-attachments/assets/dd590506-952f-4fde-990e-85d8d363210f" />
 
 
-lgb eğitildi 0.81 accuracy ile
+
 ---
 
