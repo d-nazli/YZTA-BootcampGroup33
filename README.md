@@ -305,9 +305,13 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 * GeminE entegrasyonu test aşamasında, ancak büyük boyutlu embed'ler RAM/GPU sorunu oluşturdu.
 
 ---
+Eğitilen modellerin performans olarak karşılaştırılması
 
 <img width="857" height="425" alt="Figure 2025-08-03 184205" src="https://github.com/user-attachments/assets/87a3b245-2218-4df0-a50e-645758db9f03" />
-Eğitilen modellerin performans olarak karşılaştırılması
+
+XGBoost modelinin ROC-AUC eğrisi
+<img width="713" height="569" alt="Figure 2025-08-03 201110" src="https://github.com/user-attachments/assets/b0022381-6e76-4406-abeb-955fd0c6a8e8" />
+
 
 ## 🔄 3.7. Sprint Retrospective
 
