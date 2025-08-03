@@ -308,11 +308,11 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 Eğitilen modellerin performans olarak karşılaştırılması - - >
 
-<img width="350" height="350" alt="Figure 2025-08-03 184205" src="https://github.com/user-attachments/assets/87a3b245-2218-4df0-a50e-645758db9f03" />
+<img width="821" height="632" alt="Figure 2025-08-03 184205" src="https://github.com/user-attachments/assets/87a3b245-2218-4df0-a50e-645758db9f03" />
 
 XGBoost modelinin ROC-AUC eğrisi - - >
 
-<img width="350" height="350" alt="Figure 2025-08-03 201110" src="https://github.com/user-attachments/assets/b0022381-6e76-4406-abeb-955fd0c6a8e8" />
+<img width="821" height="632" alt="Figure 2025-08-03 201110" src="https://github.com/user-attachments/assets/b0022381-6e76-4406-abeb-955fd0c6a8e8" />
 
 Xgboost ile birlikte eğitilenler - - >
 
