@@ -111,7 +111,6 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 
 ### 👥 Takım Üyeleri
 - **Kardelen** – Scrum Master  
-- **Mesut** – Product Owner  
 - **Melissa** – Developer  
 - **Duygu** – Developer  
 - **Oğuz** – Developer  
@@ -159,7 +158,6 @@ Bireylerin metin tabanlı ifadelerinden duygu durumlarını analiz ederek olası
 | 07.07  | Melissa   | Temizleme fonksiyonlarını yazdım            | TF-IDF üzerine çalışacağım                           | ✅ Zaman yetmedi          |
 | 08.07  | Duygu    | XGBoost modeli kurdu                        | Doğruluk skorlarını analiz edeceğim                  | ❌                        |
 | 09.07  | Oğuz     | Normalizasyon kodlarını yazdı               | GeminE için araştırma yapacağım                      | ✅ Kaynak eksikliği       |
-| 10.07  | Mesut    | Kullanıcı için çıktı formatları planlandı   | TF-IDF analiz sonuçlarını özetleyeceğim              | ❌                        |
 
 ---
 
